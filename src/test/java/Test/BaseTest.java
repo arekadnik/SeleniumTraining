@@ -5,6 +5,8 @@ import driver.DriverUtils;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
+import static navigations.ApplicationURLs.APPLICATION_URL;
+
 public class BaseTest {
 
 
@@ -12,7 +14,7 @@ public class BaseTest {
     public void setup() {
         DriverManager.getDriver();
         DriverUtils.setInitialConfiguration();
-        DriverUtils.navigateToPage("http://przyklady.javastart.pl/jpetstore/");
+        DriverUtils.navigateToPage(APPLICATION_URL);
     }
 
     @AfterMethod

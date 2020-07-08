@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b41a9de6-9209-4f05-b055-f26f8de4d681" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/navigations/ApplicationURLs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/driver" beforeDir="false" afterPath="$PROJECT_DIR$/driver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/FailedLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/FailedLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/PositiveLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/PositiveLoginTest.java" afterDir="false" />
     </list>
     <list id="661a7b8a-bb9e-436b-a131-f69c3731c585" name="Revert &quot; init commit&quot;" comment="Revert &quot; init commit&quot;&#10;&#10;This reverts commit a5773090">
       <change beforePath="$PROJECT_DIR$/driver/chromedriver" beforeDir="false" />
@@ -39,7 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1eN2WEeFRXoNhbt1ePFngaeomDa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

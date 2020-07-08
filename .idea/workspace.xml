@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b41a9de6-9209-4f05-b055-f26f8de4d681" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eN2WEeFRXoNhbt1ePFngaeomDa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.FailedLoginTest.myFirstTest">
+    <configuration name="FailedLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test.FailedLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FailedLoginTest.myFirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test.FailedLoginTest" />
+      <option name="METHOD_NAME" value="myFirstTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FailedLoginTest.myFirstTest" />
+        <item itemvalue="TestNG.FailedLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b41a9de6-9209-4f05-b055-f26f8de4d681" name="Default Changelist" comment="" />
+      <created>1594147759942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594147759942</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1224" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594148802716">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state x="-1224" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594148802716" />
+    <state x="-1147" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1594227914022">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state x="-1147" y="246" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152189430" />
+    <state x="-1147" y="231" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594227914022" />
+    <state x="-1172" y="390" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594150013125">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state x="-1172" y="390" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594150013125" />
+    <state x="-1205" y="-30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594152969510">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state x="-1205" y="-30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152969510" />
+    <state x="-1222" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594150330953">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state x="-1222" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594150330953" />
+    <state x="-1322" y="80" key="CommitChangelistDialog2" timestamp="1594229761248">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state x="-1322" y="80" key="CommitChangelistDialog2/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229761248" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1594229226130">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152978128" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229226130" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center" timestamp="1594229226127">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.center/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152978126" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229226127" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left" timestamp="1594229226126">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.left/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152978126" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229226126" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right" timestamp="1594229226128">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.right/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152978127" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229226128" />
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom" timestamp="1594152682700">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.bottom/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152682700" />
+    <state width="1878" height="405" key="GridCell.Tab.1.center" timestamp="1594152682698">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.center/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152682698" />
+    <state width="1878" height="405" key="GridCell.Tab.1.left" timestamp="1594152682698">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.left/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152682698" />
+    <state width="1878" height="405" key="GridCell.Tab.1.right" timestamp="1594152682699">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="405" key="GridCell.Tab.1.right/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594152682699" />
+    <state x="-1451" y="162" key="SettingsEditor" timestamp="1594148640884">
+      <screen x="-1920" y="-65" width="1920" height="1177" />
+    </state>
+    <state x="-1451" y="162" key="SettingsEditor/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594148640884" />
+    <state x="-1155" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594229513830">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state x="-1155" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229513830" />
+    <state x="-1295" y="187" width="670" height="644" key="search.everywhere.popup" timestamp="1594228038191">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state x="-1295" y="200" width="670" height="676" key="search.everywhere.popup/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594153129175" />
+    <state x="-1295" y="187" width="670" height="644" key="search.everywhere.popup/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594228038191" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Test/FailedLoginTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

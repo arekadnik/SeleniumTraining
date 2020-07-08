@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b41a9de6-9209-4f05-b055-f26f8de4d681" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver" beforeDir="false" afterPath="$PROJECT_DIR$/driver" afterDir="false" />
+    </list>
+    <list id="661a7b8a-bb9e-436b-a131-f69c3731c585" name="Revert &quot; init commit&quot;" comment="Revert &quot; init commit&quot;&#10;&#10;This reverts commit a5773090">
+      <change beforePath="$PROJECT_DIR$/driver/chromedriver" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +102,30 @@
       <option name="presentableId" value="Default" />
       <updated>1594147759942</updated>
     </task>
+    <task id="LOCAL-00001" summary="first init">
+      <created>1594229833971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594229833971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first init" />
+    <option name="LAST_COMMIT_MESSAGE" value="first init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1224" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594148802716">
@@ -122,10 +149,10 @@
       <screen x="-1920" y="-65" width="1920" height="1177" />
     </state>
     <state x="-1222" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594150330953" />
-    <state x="-1322" y="80" key="CommitChangelistDialog2" timestamp="1594229761248">
+    <state x="-1322" y="80" key="CommitChangelistDialog2" timestamp="1594229833740">
       <screen x="-1920" y="-65" width="1920" height="1121" />
     </state>
-    <state x="-1322" y="80" key="CommitChangelistDialog2/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229761248" />
+    <state x="-1322" y="80" key="CommitChangelistDialog2/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229833740" />
     <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1594229226130">
       <screen x="-1920" y="-65" width="1920" height="1121" />
     </state>
@@ -166,6 +193,10 @@
       <screen x="-1920" y="-65" width="1920" height="1177" />
     </state>
     <state x="-1451" y="162" key="SettingsEditor/0.23.1440.821/-1920.-65.1920.1177@-1920.-65.1920.1177" timestamp="1594148640884" />
+    <state x="-1360" y="235" key="Vcs.Push.Dialog.v2" timestamp="1594229933123">
+      <screen x="-1920" y="-65" width="1920" height="1121" />
+    </state>
+    <state x="-1360" y="235" key="Vcs.Push.Dialog.v2/0.23.1440.877/-1920.-65.1920.1121@-1920.-65.1920.1121" timestamp="1594229933123" />
     <state x="-1155" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594229513830">
       <screen x="-1920" y="-65" width="1920" height="1121" />
     </state>
